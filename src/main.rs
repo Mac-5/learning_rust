@@ -1,4 +1,5 @@
 fn main() {
+
     // write a simple calculator
     // takes user input for two numbers and an operator
     // prints the result of the operation
